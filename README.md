@@ -266,9 +266,11 @@ asyncio.run(main())
 
 #### 效果预览
 
-<img src="https://gitee.com/DMC_der/dynamic-render/blob/master/document/0.png" />
 
-<img src="https://gitee.com/DMC_der/dynamic-render/blob/master/document/1.png"   />
+
+<img src="https://github.com/dunkirk-4/DynamicRender/tree/main/document/0.png" />
+
+<img src="https://github.com/dunkirk-4/DynamicRender/tree/main/document/1.png"   />
 
 #### 参与贡献
 

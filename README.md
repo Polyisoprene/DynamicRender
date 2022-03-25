@@ -268,9 +268,9 @@ asyncio.run(main())
 
 
 
-<img src="https://github.com/dunkirk-4/DynamicRender/tree/main/document/0.png" />
+<img src="http://i0.hdslb.com/bfs/album/96fa55d0947ed244be58e925257af66e815e6e7d.png" />
 
-<img src="https://github.com/dunkirk-4/DynamicRender/tree/main/document/1.png"   />
+<img src="http://i0.hdslb.com/bfs/album/f90a5f75d4785462a7be26afa580236c47592996.png"   />
 
 #### 参与贡献
 
